@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Cherry+Cream+Soda:400,400i,500,500i");
+body{
+  background-image:url("https://www.pixelstalk.net/wp-content/uploads/2016/05/Beautiful-beach-hd-wallpapers.jpg");
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+  height:100%;
+}
+
+#quote-box{
+  background-image: url("https://www.hdwallpapers.in/download/green_grass_field-wide.jpg");
+   background-repeat: no-repeat;
+  background-position:center;
+  background-size:cover;
+  border: 5px solid green;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 100px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
+
+.quote-text{
+  font-size:30px;
+  padding:10px;
+  font-weight:bold;
+  font-style:italic;
+  font-family:"Cherry Cream Soda",serif;
+}
+.quote-author{
+  font-size:20px;
+  font-style:italic;
+  padding:10px;
+  font-family:"Cherry Cream Soda",serif;
+  font-weight:bold;
+ 
+}
+#tweet-quote{
+    box-shadow: 0px 0px 5px blue;
+}
+#new-quote {
+  box-shadow: 0px 0px 5px blue;
+  font-weight:bold;
+} 
+#new-quote:hover{
+  opacity:0.9;
+}
