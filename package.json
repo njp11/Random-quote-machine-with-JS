@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "_A Pen created at CodePen.io. Original URL: [https://codepen.io/NiravP/pen/NVZpKq](https://codepen.io/NiravP/pen/NVZpKq).",
   "main": "index.js",
+  "homepage": "https://NiravPatel111.github.io/Random-quote-machine-with-JS",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
@@ -16,5 +17,7 @@
   "bugs": {
     "url": "https://github.com/NiravPatel111/Random-quote-machine-with-JS/issues"
   },
-  "homepage": "https://NiravPatel111.github.io/Random-quote-machine-with-JS"
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
 }
