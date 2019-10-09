@@ -1,10 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Cherry+Cream+Soda:400,400i,500,500i');
 body {
-  background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Beautiful-beach-hd-wallpapers.jpg');
+  margin: 0;
+  padding: 0;
+  /* background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/05/Beautiful-beach-hd-wallpapers.jpg');*/
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
-  height: 100vh;
+  height: 100%;
+  background-image: linear-gradient(blue, white);
 }
 
 #quote-box {
